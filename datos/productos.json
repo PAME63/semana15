@@ -1,0 +1,22 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Clasica",
+        "categoria": "Plato fuerte"
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Ensalada Cesar",
+        "categoria": "Entrada"
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Limonada Natural",
+        "categoria": "Bebida"
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Pastel de Chocolate",
+        "categoria": "Postre"
+    }
+]
